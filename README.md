@@ -4,7 +4,7 @@
 
 # 👀 Áreas de interés
 - Gestión de proyectos
-- Infeniería de requisitos
+- Ingeniería de requisitos
 
 # 📫 Contacto
 - Puedes contactarme en el correo gabrielcrucesg@alumnos.uach.cl
